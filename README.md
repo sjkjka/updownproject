@@ -1,4 +1,4 @@
-# updownproject
+# Text images of you
 This is my own repository of code
 
 
